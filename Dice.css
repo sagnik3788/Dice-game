@@ -1,0 +1,18 @@
+
+body{
+    background-color:#383838;
+    left: 100rem;
+}
+.con{
+    color: #00ff7f;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+    font-family: cursive;
+}
+.h1{
+    color: #00ff7f;
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+}
